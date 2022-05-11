@@ -32,3 +32,14 @@ Meu nome é Catherine, sou de Fortaleza e atualmente estou estudando desenvolvim
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/catherineteles/)](https://www.linkedin.com/in/catherineteles/)
 [![Badge Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=[https://www.instagram.com/catherineteles/)](https://www.instagram.com/catherineteles/)
 
+## :us: Hello! 👋
+
+I'm Catherine, I'm from Fortaleza, Brazil and currently I'm studying web development at Trybe!
+
+#### About me:
+
+- 🔭 I'm starting the module of Back End
+- 🌱 I'm trying to improve my skills with tests in React using Jest and RTL
+- 👯 Most of my current projects are with ReactJS
+- :dog: I love dogs and books
+- 📫 Talk to me via LinkedIn or Instagram
