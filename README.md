@@ -4,9 +4,9 @@ Meu nome é Catherine, sou de Fortaleza e atualmente estou estudando desenvolvim
 
 #### Algumas coisas sobre mim:
 
-- 🔭 Eu estou começando a estudar Back End
-- 🌱 Estou aprimorando meus conhecimentos com testes em React utilizando Jest e RTL
-- 👯 Atualmente a maioria dos meus projetos são feitos em ReactJS
+- 🔭 Eu estou começando a estudar Bancos de Dados NoSQL
+- 🌱 Estou aprimorando meus conhecimentos com testes em TypeScript
+- 👯 Atualmente a maioria dos meus projetos são feitos em ReactJS e NodeJS
 - :dog: Adoro livros e cachorros 
 - 📫 Você pode entrar em contato via LinkedIn
 
@@ -15,9 +15,15 @@ Meu nome é Catherine, sou de Fortaleza e atualmente estou estudando desenvolvim
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jest Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize Express](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![SQL Express](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Stats:
 
