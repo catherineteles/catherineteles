@@ -21,9 +21,10 @@ Meu nome é Catherine, sou de Fortaleza e atualmente estou estudando desenvolvim
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Jest Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Node Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Sequelize Express](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![SQL Express](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Badge Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Stats:
 
@@ -44,8 +45,8 @@ I'm Catherine, I'm from Fortaleza, Brazil and currently I'm studying web develop
 
 #### About me:
 
-- 🔭 I'm starting the module of Back End
-- 🌱 I'm trying to improve my skills with tests in React using Jest and RTL
-- 👯 Most of my current projects are with ReactJS
+- 🔭 I'm starting to study NoSQL DB
+- 🌱 I'm trying to improve my skills with tests in TS
+- 👯 Most of my current projects are with ReactJS and NodeJS
 - :dog: I love dogs and books
 - 📫 Talk to me via LinkedIn or Instagram
