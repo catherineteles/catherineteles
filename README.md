@@ -49,4 +49,4 @@ I'm Catherine, I'm from Fortaleza, Brazil and currently I'm studying web develop
 - 🌱 I'm trying to improve my skills with tests in TS
 - 👯 Most of my current projects are with ReactJS and NodeJS
 - :dog: I love dogs and books
-- 📫 Talk to me via LinkedIn or Instagram
+- 📫 Talk to me via LinkedIn
