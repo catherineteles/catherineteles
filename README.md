@@ -4,8 +4,8 @@ Meu nome é Catherine, sou de Fortaleza e atualmente estou estudando desenvolvim
 
 #### Algumas coisas sobre mim:
 
-- 🔭 Eu estou começando a estudar Bancos de Dados NoSQL
-- 🌱 Estou aprimorando meus conhecimentos com testes em TypeScript
+- 🔭 Eu estou aprimorando conhecimentos em python e C#
+- 🌱 Estou aprendendo mais sobre tratamento de dados com python
 - 👯 Atualmente a maioria dos meus projetos são feitos em ReactJS e NodeJS
 - :dog: Adoro livros e cachorros 
 - 📫 Você pode entrar em contato via LinkedIn
@@ -24,7 +24,10 @@ Meu nome é Catherine, sou de Fortaleza e atualmente estou estudando desenvolvim
 ![Badge Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![DotNet Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### Stats:
 
